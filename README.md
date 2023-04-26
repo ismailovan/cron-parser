@@ -27,9 +27,9 @@ In order to compile this project you need python3. You can download it from [her
 ### !important note
 It is neccessary to add python to PATH.
 
-After donwloading you can open cmd and run following line, where part in "" is input
+After donwloading you can open terminal and run following line, where part in "" is input
 ```
-python cron_parser.py "*/15 0 1,15 * 1-5 /usr/bin/find" 
+python3 cron_parser.py "*/15 0 1,15 * 1-5 /usr/bin/find" 
 ```
 
 # Navigation
