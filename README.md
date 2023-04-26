@@ -37,4 +37,4 @@ cron.py is a class. Comments inside are describing the whole logic.
 
 cron_parser.py is program that describe cron string. Uses function from cron.py
 
-test.py is file with unit test. It is neccessary to test your code by using such technologies
+test.py is file with unit test. It is neccessary to test your code by using such technologies, so keep writing unit test after modifications to check wheather your code  is running correctly.
